@@ -1,2 +1,2 @@
 Decision Tree Classifier from Scratch. ||
-Paper - Simplifying Decisoin Trees
+Paper -- Simplifying Decisoin Trees
