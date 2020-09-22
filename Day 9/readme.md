@@ -1,0 +1,1 @@
+OCR using Naive Bayes Classifier || Paper -- A Naive Bayes Classifier for Character Recognition
