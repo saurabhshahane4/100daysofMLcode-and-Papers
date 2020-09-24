@@ -1,0 +1,1 @@
+Multivariate Adaptive Regression Splines(MARS) || Paper - Fast MARS
