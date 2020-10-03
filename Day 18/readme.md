@@ -1,0 +1,1 @@
+ForestFirePrediction || Paper -- A Data Mining Approach to Predict Forest Fires
