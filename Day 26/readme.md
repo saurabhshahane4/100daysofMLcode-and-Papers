@@ -1,0 +1,1 @@
+Paper - Artificial neural networks, back propagation, and the Kelley-Bryson gradient procedure
